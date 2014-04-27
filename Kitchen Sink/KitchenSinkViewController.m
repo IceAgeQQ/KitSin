@@ -84,7 +84,7 @@
         //do nothing
     }else{
         NSString *drainButton = self.drainTimer ? STOP_DRAIN:UNSTOP_DRAIN;
-        UIActionSheet *actionSheet = [[UIActionSheet alloc]initWithTitle:@"Sink Controls" delegate:self cancelButtonTitle:@"Cancel" destructiveButtonTitle:@"Empty Sink" otherButtonTitles:drainButton, nil];
+        UIActionSheet *actionSheet = [[UIActionSheet alloc]initWithTitle:@"Words Controls" delegate:self cancelButtonTitle:@"Cancel" destructiveButtonTitle:@"Empty Words" otherButtonTitles:drainButton, nil];
         [actionSheet showFromBarButtonItem:sender animated:YES];
         self.actionSheet =  actionSheet;
     }
@@ -109,7 +109,7 @@
 -(void)addLabel:(NSString *)text{
     UILabel *label = [[UILabel alloc] init];
     static NSDictionary *colors = nil;
-    if (!colors)colors = [NSDictionary dictionaryWithObjectsAndKeys:[UIColor blueColor],@"Blue",[UIColor grayColor],@"Green", [UIColor orangeColor],@"Orange",[UIColor redColor],@"Red",[UIColor purpleColor],@"Purple",[UIColor brownColor],@"Brown",nil];
+    if (!colors)colors = [NSDictionary dictionaryWithObjectsAndKeys:[UIColor blueColor],@"Blue",[UIColor greenColor],@"Green", [UIColor orangeColor],@"Orange",[UIColor redColor],@"Red",[UIColor purpleColor],@"Purple",[UIColor brownColor],@"Brown",nil];
     
     if (![text length]) {
         NSString *color = [[colors allKeys] objectAtIndex:arc4random()%[colors count]];

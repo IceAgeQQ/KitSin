@@ -36,14 +36,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BC8F140017EAAD23007BBCA0 /* Kitchen Sink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kitchen Sink.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8F140017EAAD23007BBCA0 /* LovelyWords.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LovelyWords.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC8F140317EAAD23007BBCA0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BC8F140517EAAD23007BBCA0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		BC8F140717EAAD23007BBCA0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		BC8F140B17EAAD23007BBCA0 /* Kitchen Sink-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Kitchen Sink-Info.plist"; sourceTree = "<group>"; };
+		BC8F140B17EAAD23007BBCA0 /* LovelyWords-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LovelyWords-Info.plist"; sourceTree = "<group>"; };
 		BC8F140D17EAAD23007BBCA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BC8F140F17EAAD23007BBCA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BC8F141117EAAD23007BBCA0 /* Kitchen Sink-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Kitchen Sink-Prefix.pch"; sourceTree = "<group>"; };
+		BC8F141117EAAD23007BBCA0 /* LovelyWords-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LovelyWords-Prefix.pch"; sourceTree = "<group>"; };
 		BC8F141217EAAD23007BBCA0 /* KitchenSinkAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KitchenSinkAppDelegate.h; sourceTree = "<group>"; };
 		BC8F141317EAAD23007BBCA0 /* KitchenSinkAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KitchenSinkAppDelegate.m; sourceTree = "<group>"; };
 		BC8F141617EAAD23007BBCA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -51,9 +51,9 @@
 		BC8F141B17EAAD23007BBCA0 /* KitchenSinkViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KitchenSinkViewController.h; sourceTree = "<group>"; };
 		BC8F141C17EAAD23007BBCA0 /* KitchenSinkViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KitchenSinkViewController.m; sourceTree = "<group>"; };
 		BC8F141E17EAAD23007BBCA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		BC8F142417EAAD24007BBCA0 /* Kitchen SinkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Kitchen SinkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC8F142417EAAD24007BBCA0 /* LovelyWordsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LovelyWordsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC8F142517EAAD24007BBCA0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		BC8F142D17EAAD24007BBCA0 /* Kitchen SinkTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Kitchen SinkTests-Info.plist"; sourceTree = "<group>"; };
+		BC8F142D17EAAD24007BBCA0 /* LovelyWordsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LovelyWordsTests-Info.plist"; sourceTree = "<group>"; };
 		BC8F142F17EAAD24007BBCA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BC8F143117EAAD24007BBCA0 /* Kitchen_SinkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Kitchen_SinkTests.m; sourceTree = "<group>"; };
 		BC8F143B17EAAFA7007BBCA0 /* AskViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AskViewController.h; path = ../AskViewController.h; sourceTree = "<group>"; };
@@ -97,8 +97,8 @@
 		BC8F140117EAAD23007BBCA0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BC8F140017EAAD23007BBCA0 /* Kitchen Sink.app */,
-				BC8F142417EAAD24007BBCA0 /* Kitchen SinkTests.xctest */,
+				BC8F140017EAAD23007BBCA0 /* LovelyWords.app */,
+				BC8F142417EAAD24007BBCA0 /* LovelyWordsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -134,10 +134,10 @@
 		BC8F140A17EAAD23007BBCA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BC8F140B17EAAD23007BBCA0 /* Kitchen Sink-Info.plist */,
+				BC8F140B17EAAD23007BBCA0 /* LovelyWords-Info.plist */,
 				BC8F140C17EAAD23007BBCA0 /* InfoPlist.strings */,
 				BC8F140F17EAAD23007BBCA0 /* main.m */,
-				BC8F141117EAAD23007BBCA0 /* Kitchen Sink-Prefix.pch */,
+				BC8F141117EAAD23007BBCA0 /* LovelyWords-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -154,7 +154,7 @@
 		BC8F142C17EAAD24007BBCA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BC8F142D17EAAD24007BBCA0 /* Kitchen SinkTests-Info.plist */,
+				BC8F142D17EAAD24007BBCA0 /* LovelyWordsTests-Info.plist */,
 				BC8F142E17EAAD24007BBCA0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -163,9 +163,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BC8F13FF17EAAD23007BBCA0 /* Kitchen Sink */ = {
+		BC8F13FF17EAAD23007BBCA0 /* LovelyWords */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC8F143517EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "Kitchen Sink" */;
+			buildConfigurationList = BC8F143517EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "LovelyWords" */;
 			buildPhases = (
 				BC8F13FC17EAAD23007BBCA0 /* Sources */,
 				BC8F13FD17EAAD23007BBCA0 /* Frameworks */,
@@ -175,14 +175,14 @@
 			);
 			dependencies = (
 			);
-			name = "Kitchen Sink";
+			name = LovelyWords;
 			productName = "Kitchen Sink";
-			productReference = BC8F140017EAAD23007BBCA0 /* Kitchen Sink.app */;
+			productReference = BC8F140017EAAD23007BBCA0 /* LovelyWords.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BC8F142317EAAD24007BBCA0 /* Kitchen SinkTests */ = {
+		BC8F142317EAAD24007BBCA0 /* LovelyWordsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC8F143817EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "Kitchen SinkTests" */;
+			buildConfigurationList = BC8F143817EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "LovelyWordsTests" */;
 			buildPhases = (
 				BC8F142017EAAD24007BBCA0 /* Sources */,
 				BC8F142117EAAD24007BBCA0 /* Frameworks */,
@@ -193,9 +193,9 @@
 			dependencies = (
 				BC8F142A17EAAD24007BBCA0 /* PBXTargetDependency */,
 			);
-			name = "Kitchen SinkTests";
+			name = LovelyWordsTests;
 			productName = "Kitchen SinkTests";
-			productReference = BC8F142417EAAD24007BBCA0 /* Kitchen SinkTests.xctest */;
+			productReference = BC8F142417EAAD24007BBCA0 /* LovelyWordsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -213,7 +213,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BC8F13FB17EAAD23007BBCA0 /* Build configuration list for PBXProject "Kitchen Sink" */;
+			buildConfigurationList = BC8F13FB17EAAD23007BBCA0 /* Build configuration list for PBXProject "LovelyWords" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -226,8 +226,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BC8F13FF17EAAD23007BBCA0 /* Kitchen Sink */,
-				BC8F142317EAAD24007BBCA0 /* Kitchen SinkTests */,
+				BC8F13FF17EAAD23007BBCA0 /* LovelyWords */,
+				BC8F142317EAAD24007BBCA0 /* LovelyWordsTests */,
 			);
 		};
 /* End PBXProject section */
@@ -279,7 +279,7 @@
 /* Begin PBXTargetDependency section */
 		BC8F142A17EAAD24007BBCA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BC8F13FF17EAAD23007BBCA0 /* Kitchen Sink */;
+			target = BC8F13FF17EAAD23007BBCA0 /* LovelyWords */;
 			targetProxy = BC8F142917EAAD24007BBCA0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -400,9 +400,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Kitchen Sink/Kitchen Sink-Prefix.pch";
-				INFOPLIST_FILE = "Kitchen Sink/Kitchen Sink-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Kitchen Sink/LovelyWords-Prefix.pch";
+				INFOPLIST_FILE = "Kitchen Sink/LovelyWords-Info.plist";
+				PRODUCT_NAME = LovelyWords;
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -413,9 +414,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Kitchen Sink/Kitchen Sink-Prefix.pch";
-				INFOPLIST_FILE = "Kitchen Sink/Kitchen Sink-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Kitchen Sink/LovelyWords-Prefix.pch";
+				INFOPLIST_FILE = "Kitchen Sink/LovelyWords-Info.plist";
+				PRODUCT_NAME = LovelyWords;
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -436,8 +438,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Kitchen SinkTests/Kitchen SinkTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Kitchen SinkTests/LovelyWordsTests-Info.plist";
+				PRODUCT_NAME = LovelyWordsTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -455,8 +457,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Kitchen Sink/Kitchen Sink-Prefix.pch";
-				INFOPLIST_FILE = "Kitchen SinkTests/Kitchen SinkTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Kitchen SinkTests/LovelyWordsTests-Info.plist";
+				PRODUCT_NAME = LovelyWordsTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -465,7 +467,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BC8F13FB17EAAD23007BBCA0 /* Build configuration list for PBXProject "Kitchen Sink" */ = {
+		BC8F13FB17EAAD23007BBCA0 /* Build configuration list for PBXProject "LovelyWords" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC8F143317EAAD24007BBCA0 /* Debug */,
@@ -474,21 +476,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC8F143517EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "Kitchen Sink" */ = {
+		BC8F143517EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "LovelyWords" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC8F143617EAAD24007BBCA0 /* Debug */,
 				BC8F143717EAAD24007BBCA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		BC8F143817EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "Kitchen SinkTests" */ = {
+		BC8F143817EAAD24007BBCA0 /* Build configuration list for PBXNativeTarget "LovelyWordsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC8F143917EAAD24007BBCA0 /* Debug */,
 				BC8F143A17EAAD24007BBCA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

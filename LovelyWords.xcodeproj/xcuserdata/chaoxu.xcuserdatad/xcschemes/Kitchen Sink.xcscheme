@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BC8F13FF17EAAD23007BBCA0"
-               BuildableName = "Kitchen Sink.app"
-               BlueprintName = "Kitchen Sink"
-               ReferencedContainer = "container:Kitchen Sink.xcodeproj">
+               BuildableName = "LovelyWords.app"
+               BlueprintName = "LovelyWords"
+               ReferencedContainer = "container:LovelyWords.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BC8F142317EAAD24007BBCA0"
-               BuildableName = "Kitchen SinkTests.xctest"
-               BlueprintName = "Kitchen SinkTests"
-               ReferencedContainer = "container:Kitchen Sink.xcodeproj">
+               BuildableName = "LovelyWordsTests.xctest"
+               BlueprintName = "LovelyWordsTests"
+               ReferencedContainer = "container:LovelyWords.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BC8F13FF17EAAD23007BBCA0"
-            BuildableName = "Kitchen Sink.app"
-            BlueprintName = "Kitchen Sink"
-            ReferencedContainer = "container:Kitchen Sink.xcodeproj">
+            BuildableName = "LovelyWords.app"
+            BlueprintName = "LovelyWords"
+            ReferencedContainer = "container:LovelyWords.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BC8F13FF17EAAD23007BBCA0"
-            BuildableName = "Kitchen Sink.app"
-            BlueprintName = "Kitchen Sink"
-            ReferencedContainer = "container:Kitchen Sink.xcodeproj">
+            BuildableName = "LovelyWords.app"
+            BlueprintName = "LovelyWords"
+            ReferencedContainer = "container:LovelyWords.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BC8F13FF17EAAD23007BBCA0"
-            BuildableName = "Kitchen Sink.app"
-            BlueprintName = "Kitchen Sink"
-            ReferencedContainer = "container:Kitchen Sink.xcodeproj">
+            BuildableName = "LovelyWords.app"
+            BlueprintName = "LovelyWords"
+            ReferencedContainer = "container:LovelyWords.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
